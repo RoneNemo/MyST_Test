@@ -1,3 +1,8 @@
+---
+#   downloads:
+#     - file: ./exports/Aliaga torno Industrial.pdf
+#       title: An interesting photograph
+---
 # How to MyST, without being mystified 🧙
 
 A tutorial to evolve markdown documents and notebooks into structured data
