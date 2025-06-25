@@ -17,6 +17,6 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     - name: Build the book
-      run: jupyter-book build .
+      run: myst build --html .
     - name: Deploy the book
       run: ghp-import -n -p -f _build/html
